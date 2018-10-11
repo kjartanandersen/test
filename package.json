@@ -1,5 +1,5 @@
 {
-  "name": "testJest",
+  "name": "jesttest",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/kjartanandersen/test.git"
   },
-  "author": "kjartan",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kjartanandersen/test/issues"
   },
-  "homepage": "https://github.com/kjartanandersen/test#readme"
+  "homepage": "https://github.com/kjartanandersen/test#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
