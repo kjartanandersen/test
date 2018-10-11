@@ -12,5 +12,5 @@ describe("GET /greeting/:name endpoint", () => {
 		const res = await request(api).get("/greeting/Diana");
 		expect(res.body.greeting).toBe("Hello, Diana");
 	});
-})
+});
 
