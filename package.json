@@ -1,0 +1,19 @@
+{
+  "name": "testJest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjartanandersen/test.git"
+  },
+  "author": "kjartan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjartanandersen/test/issues"
+  },
+  "homepage": "https://github.com/kjartanandersen/test#readme"
+}
